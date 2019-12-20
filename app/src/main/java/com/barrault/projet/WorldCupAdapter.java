@@ -68,7 +68,7 @@ public class WorldCupAdapter extends RecyclerView.Adapter<WorldCupAdapter.WorldC
             this.id= view.findViewById(R.id.rv_world_cup_element_id);
         }
     }
-
+//top
     public void setNewWorldCup(JSONArray newWorldCup){
         this. worldcup=newWorldCup;
         notifyDataSetChanged();

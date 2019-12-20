@@ -23,7 +23,7 @@ import java.net.URL;
  * helper methods.
  */
 public class GetWorldCupServices extends IntentService {
-    // TODO: Rename actions, choose action names that describe tasks that this
+    // TODO: Rename actions, choose action names that describe tasks  this;
     private static final String ACTION_get_world_cup_info = "com.example.charl.worldcup.action.get_world_cup_info";
 
     public GetWorldCupServices() {

@@ -53,7 +53,7 @@ public class Tournois extends AppCompatActivity {
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
                     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
-                        // set item as selected to persist highlight
+                        // set item as slected to persist highlight
                         menuItem.setChecked(true);
 
 

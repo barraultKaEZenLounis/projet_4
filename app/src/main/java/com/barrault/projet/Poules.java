@@ -36,7 +36,7 @@ public class Poules extends AppCompatActivity {
 
         Toast.makeText(getApplicationContext(),getString(R.string.tourner),Toast.LENGTH_LONG).show();
 
-        //Declaration de la bar d'outils
+        //Declaration de la bar d'outils .
         Toolbar toolbar = findViewById(R.id.main_menu_toolbar);
         setSupportActionBar(toolbar);
         Objects.requireNonNull(getSupportActionBar()).setTitle(Html.fromHtml("<font color='#ffffff'>HelloSigns </font>"));

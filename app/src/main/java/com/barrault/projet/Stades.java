@@ -49,7 +49,7 @@ public class Stades extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_stades);
-
+//rc
         RecyclerView rv = findViewById(R.id.rv_stadium);
         rv.setLayoutManager(new LinearLayoutManager(this,LinearLayoutManager.VERTICAL,false));
         worldCupAdapt= new StadiumAdapter(getStadiumFromFile());

@@ -55,7 +55,7 @@ public class StadiumAdapter extends RecyclerView.Adapter<StadiumAdapter.StadiumH
 
                 }
             });
-
+//tp
 /*
             switch(id_stade){
                 case "0":
