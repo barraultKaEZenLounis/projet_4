@@ -1,5 +1,5 @@
 # WorldCup
-DIABI Lounis / Classe alternance 4ème année FSI2
+DIABI Lounis / Classe alternance 4ème année FSI2.
 # Présentation 
 WorldCup l’application pour rester informer des résultats de ses équipes favorites de la coupe du monde 2018 en Russie. Etant une application destinée pour les supporteurs de différentes nationalités, l’application a été développé en version française et anglaise.
 
